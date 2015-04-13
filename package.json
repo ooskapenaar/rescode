@@ -6,7 +6,9 @@
     "name": "Marco Egbring",
     "email": "marco.egbring@epha.ch"
   },
-  "dependencies": {},
+  "dependencies": {
+    "canvas": "~1.1.6"
+  },
   "keywords": [
     "codes",
     "ean13",
