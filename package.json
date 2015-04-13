@@ -1,7 +1,7 @@
 {
   "name": "rescode",
   "description": "Generate Codes (EAN13, QRCODE ..)",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "author": {
     "name": "Marco Egbring",
     "email": "marco.egbring@epha.ch"
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/epha/rescode"
+    "url": "git://github.com/awarenetdev/rescode"
   },
   "main": "index",
   "bin": {},
@@ -27,6 +27,7 @@
     "gulp": "~3.8.9",
     "gulp-jshint": "~1.8.6",
     "gulp-mocha": "~1.1.1",
-    "jshint-stylish": "~1.0.0"
+    "jshint-stylish": "~1.0.0",
+    "canvas": "~1.1.6"
   }
 }
