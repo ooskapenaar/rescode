@@ -7,7 +7,7 @@
     "email": "marco.egbring@epha.ch"
   },
   "dependencies": {
-    "canvas": "~1.1.6"
+    "canvas": "^1.2.9"
   },
   "keywords": [
     "codes",
@@ -30,6 +30,6 @@
     "gulp-jshint": "~1.8.6",
     "gulp-mocha": "~1.1.1",
     "jshint-stylish": "~1.0.0",
-    "canvas": "~1.1.6"
+    "canvas": "~1.2.9"
   }
 }
