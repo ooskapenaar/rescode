@@ -7,7 +7,7 @@
     "email": "marco.egbring@epha.ch"
   },
   "dependencies": {
-    "canvas": "~1.1.6"
+    "canvas": "^1.2.9"
   },
   "keywords": [
     "codes",
